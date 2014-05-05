@@ -2,6 +2,23 @@
 
 "wods": [
   {
+    "name": "Barbara",
+    "description": "5 sets w/ 3 minute rest",
+    "tags": [ "body" ],
+    "exercises": [{
+      "name": "pull-ups",
+      "reps": "20"
+    },{
+      "name": "push-ups",
+      "reps": "30"
+    },{
+      "name": "sit-ups",
+      "reps": "40"
+    },{
+      "name": "squats",
+      "reps": "50"
+    }]
+  },{
     "name": "Chelsea",
     "description": "MOTM 30 minutes",
     "tags": [ "body" ],
