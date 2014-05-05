@@ -2,6 +2,25 @@
 
 "wods": [
   {
+    "description": "10 sets",
+    "tags": [ "body", "row", "rings" ],
+    "exercises": [{
+      "name": "air squats",
+      "reps": "50"
+    },{
+      "name": "rowing",
+      "reps": "1 minute"
+    },{
+      "name": "rest",
+      "reps": "15 seconds"
+    },{
+      "name": "ring dips",
+      "reps": "30 seconds"
+    },{
+      "name": "rest",
+      "reps": "15 seconds"
+    }]
+  },{
     "name": "Nasty Girls",
     "description": "3 rounds",
     "tags": [ "body", "pullup", "barbell" ],
