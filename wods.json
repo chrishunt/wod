@@ -2,6 +2,16 @@
 
 "wods": [
   {
+    "name": "Fran",
+    "description": "21-15-9 for time",
+    "tags": [ "body", "barbell", "pullup" ],
+    "exercises": [{
+      "name": "thrusters",
+      "weight": "95"
+    },{
+      "name": "pull-ups"
+    }]
+  },{
     "description": "10 sets",
     "tags": [ "body", "row", "rings" ],
     "exercises": [{
