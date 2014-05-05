@@ -2,6 +2,20 @@
 
 "wods": [
   {
+    "name": "Chelsea",
+    "description": "MOTM 30 minutes",
+    "tags": [ "body" ],
+    "exercises": [{
+      "name": "pull-ups",
+      "reps": "5"
+    },{
+      "name": "push-ups",
+      "reps": "10"
+    },{
+      "name": "squats",
+      "reps": "15"
+    }]
+  },{
     "name": "Diane",
     "description": "21-15-9 reps",
     "tags": [ "body", "barbell" ],
