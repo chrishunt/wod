@@ -100,7 +100,7 @@
   },{
     "name": "2014 Regional",
     "description": "For time",
-    "tags": [ "body", "row", "barbell", "wallball" ],
+    "tags": [ "body", "row", "barbell", "wallball", "rings" ],
     "exercises": [{
       "name": "Calorie Row",
       "reps": "50",
