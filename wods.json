@@ -1,0 +1,93 @@
+{
+
+"wods": [
+  {
+    "name": "2014 Regional",
+    "description": "21-15-9-6-3",
+    "tags": [ "barbell" ],
+    "exercises": [{
+      "name": "strict handstand push-ups"
+    },{
+      "name": "front squats",
+      "weight": "195"
+    },{
+      "name": "Burpees"
+    }]
+  },{
+    "name": "2014 Regional",
+    "description": "10 sets",
+    "tags": [ "rope" ],
+    "exercises": [{
+      "name": "legless rope climb",
+      "reps": "1",
+      "weight": "14"
+    },{
+      "name": "Sprint",
+      "reps": "200 foot",
+      "weight": ""
+    }]
+  },{
+    "description": "5 sets",
+    "tags": [ "wallball", "barbell" ],
+    "exercises": [{
+      "name": "Wall Ball",
+      "reps": "20",
+      "weight": "20/14"
+    },{
+      "name": "Push Up",
+      "reps": "15",
+      "weight": ""
+    },{
+      "name": "Pistol",
+      "reps": "10",
+      "weight": ""
+    },{
+      "name": "Deadlift",
+      "reps": "5",
+      "weight": "275/155"
+    }]
+  },{
+    "name": "2014 Regional",
+    "description": "For time",
+    "tags": [ "row", "barbell", "wallball" ],
+    "exercises": [{
+      "name": "Calorie Row",
+      "reps": "50",
+      "weight": ""
+    },{
+      "name": "Box Jump Overs",
+      "reps": "50",
+      "weight": "24"
+    },{
+      "name": "Deadlift",
+      "reps": "50",
+      "weight": "180"
+    },{
+      "name": "Wall Ball",
+      "reps": "50",
+      "weight": "20"
+    },{
+      "name": "Ring Dips",
+      "reps": "50",
+      "weight": ""
+    },{
+      "name": "Wall Ball",
+      "reps": "50",
+      "weight": "20"
+    },{
+      "name": "Deadlift",
+      "reps": "50",
+      "weight": "180"
+    },{
+      "name": "Box Jump Overs",
+      "reps": "50",
+      "weight": "24"
+    },{
+      "name": "Calorie Row",
+      "reps": "50",
+      "weight": ""
+    }]
+  }
+]
+
+}
