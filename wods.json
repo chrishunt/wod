@@ -2,6 +2,23 @@
 
 "wods": [
   {
+    "name": "Angie",
+    "description": "for time",
+    "tags": [ "pullup", "body" ],
+    "exercises": [{
+      "name": "Pull-ups",
+      "reps": "100"
+    },{
+      "name": "Push-ups",
+      "reps": "100"
+    },{
+      "name": "Sit-ups",
+      "reps": "100"
+    },{
+      "name": "Squats",
+      "reps": "100"
+    }]
+  },{
     "name": "2014 Regional",
     "description": "21-15-9-6-3",
     "tags": [ "barbell" ],
