@@ -2,6 +2,21 @@
 
 "wods": [
   {
+    "name": "Nasty Girls",
+    "description": "3 rounds",
+    "tags": [ "body", "pullup", "barbell" ],
+    "exercises": [{
+      "name": "air squats",
+      "reps": "50"
+    },{
+      "name": "Muscle-ups",
+      "reps": "7"
+    },{
+      "name": "hang power cleans",
+      "reps": "10",
+      "weight": "135/95"
+    }]
+  },{
     "name": "Angie",
     "description": "for time",
     "tags": [ "pullup", "body" ],
