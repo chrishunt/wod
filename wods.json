@@ -2,8 +2,18 @@
 
 "wods": [
   {
+    "name": "Elizabeth",
+    "description": "21-15-9 reps",
+    "tags": [ "body", "barbell", "rings" ],
+    "exercises": [{
+      "name": "barbell clean",
+      "weight": "135"
+    },{
+      "name": "ring dips"
+    }]
+  },{
     "name": "Fran",
-    "description": "21-15-9 for time",
+    "description": "21-15-9 reps",
     "tags": [ "body", "barbell", "pullup" ],
     "exercises": [{
       "name": "thrusters",
