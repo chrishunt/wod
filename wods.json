@@ -2,6 +2,16 @@
 
 "wods": [
   {
+    "name": "Diane",
+    "description": "21-15-9 reps",
+    "tags": [ "body", "barbell" ],
+    "exercises": [{
+      "name": "Deadlift",
+      "weight": "225"
+    },{
+      "name": "Handstand push-ups"
+    }]
+  },{
     "name": "Elizabeth",
     "description": "21-15-9 reps",
     "tags": [ "body", "barbell", "rings" ],
