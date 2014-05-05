@@ -4,7 +4,7 @@
   {
     "name": "Barbara",
     "description": "5 sets w/ 3 minute rest",
-    "tags": [ "body" ],
+    "tags": [ "body", "pullup" ],
     "exercises": [{
       "name": "pull-ups",
       "reps": "20"
@@ -21,7 +21,7 @@
   },{
     "name": "Chelsea",
     "description": "MOTM 30 minutes",
-    "tags": [ "body" ],
+    "tags": [ "body", "pullup" ],
     "exercises": [{
       "name": "pull-ups",
       "reps": "5"
