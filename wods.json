@@ -21,7 +21,7 @@
   },{
     "name": "2014 Regional",
     "description": "21-15-9-6-3",
-    "tags": [ "barbell" ],
+    "tags": [ "body", "barbell" ],
     "exercises": [{
       "name": "strict handstand push-ups"
     },{
@@ -33,7 +33,7 @@
   },{
     "name": "2014 Regional",
     "description": "10 sets",
-    "tags": [ "rope" ],
+    "tags": [ "body", "rope" ],
     "exercises": [{
       "name": "legless rope climb",
       "reps": "1",
@@ -45,7 +45,7 @@
     }]
   },{
     "description": "5 sets",
-    "tags": [ "wallball", "barbell" ],
+    "tags": [ "body", "wallball", "barbell" ],
     "exercises": [{
       "name": "Wall Ball",
       "reps": "20",
@@ -66,7 +66,7 @@
   },{
     "name": "2014 Regional",
     "description": "For time",
-    "tags": [ "row", "barbell", "wallball" ],
+    "tags": [ "body", "row", "barbell", "wallball" ],
     "exercises": [{
       "name": "Calorie Row",
       "reps": "50",
