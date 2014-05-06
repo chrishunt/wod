@@ -2,6 +2,7 @@
 
 "wods": [
   {
+    "id": "1",
     "name": "Barbara",
     "description": "5 sets w/ 3 minute rest",
     "tags": [ "body", "pullup" ],
@@ -19,6 +20,7 @@
       "reps": "50"
     }]
   },{
+    "id": "2",
     "name": "Chelsea",
     "description": "MOTM 30 minutes",
     "tags": [ "body", "pullup" ],
@@ -33,6 +35,7 @@
       "reps": "15"
     }]
   },{
+    "id": "3",
     "name": "Diane",
     "description": "21-15-9 reps",
     "tags": [ "body", "barbell" ],
@@ -43,6 +46,7 @@
       "name": "Handstand push-ups"
     }]
   },{
+    "id": "4",
     "name": "Elizabeth",
     "description": "21-15-9 reps",
     "tags": [ "body", "barbell", "rings" ],
@@ -53,6 +57,7 @@
       "name": "ring dips"
     }]
   },{
+    "id": "5",
     "name": "Fran",
     "description": "21-15-9 reps",
     "tags": [ "body", "barbell", "pullup" ],
@@ -63,6 +68,7 @@
       "name": "pull-ups"
     }]
   },{
+    "id": "6",
     "description": "10 sets",
     "tags": [ "body", "row", "rings" ],
     "exercises": [{
@@ -82,6 +88,7 @@
       "reps": "15 seconds"
     }]
   },{
+    "id": "7",
     "name": "Nasty Girls",
     "description": "3 rounds",
     "tags": [ "body", "pullup", "barbell" ],
@@ -97,6 +104,7 @@
       "weight": "135/95"
     }]
   },{
+    "id": "8",
     "name": "Angie",
     "description": "for time",
     "tags": [ "pullup", "body" ],
@@ -114,6 +122,7 @@
       "reps": "100"
     }]
   },{
+    "id": "9",
     "name": "2014 Regional",
     "description": "21-15-9-6-3",
     "tags": [ "body", "barbell" ],
@@ -126,6 +135,7 @@
       "name": "Burpees"
     }]
   },{
+    "id": "10",
     "name": "2014 Regional",
     "description": "10 sets",
     "tags": [ "body", "rope" ],
@@ -139,6 +149,7 @@
       "weight": ""
     }]
   },{
+    "id": "11",
     "description": "5 sets",
     "tags": [ "body", "wallball", "barbell" ],
     "exercises": [{
@@ -159,6 +170,7 @@
       "weight": "275/155"
     }]
   },{
+    "id": "12",
     "name": "2014 Regional",
     "description": "For time",
     "tags": [ "body", "row", "barbell", "wallball", "rings" ],
