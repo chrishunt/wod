@@ -211,6 +211,17 @@
       "reps": "50",
       "weight": ""
     }]
+  },{
+    "id": "13",
+    "name": "Amanda",
+    "description": "9-7-5 reps",
+    "tags": [ "body", "pullup", "barbell" ],
+    "exercises": [{
+      "name": "Muscle-ups"
+    },{
+      "name": "Squat snatch",
+      "weight": "135"
+    }]
   }
 ]
 
