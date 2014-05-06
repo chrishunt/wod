@@ -37,10 +37,6 @@ function drawExercises(exercise) {
   return description;
 }
 
-function drawName(name) {
-  return name || "?";
-}
-
 function show(name, wod) {
   var html   = [],
       items  = wod[name],
