@@ -222,6 +222,34 @@
       "name": "Squat snatch",
       "weight": "135"
     }]
+  },{
+    "id": "14",
+    "description": "for time",
+    "tags": [ "body", "row", "jumprope" ],
+    "exercises": [{
+      "name": "rowing",
+      "reps": "500m"
+    },{
+      "name": "Double-unders",
+      "reps": "150"
+    },{
+      "name": "Burpees",
+      "reps": "50"
+    }]
+  },{
+    "id": "15",
+    "description": "30-20-10-20-30 reps",
+    "tags": [ "body", "kettlebell" ],
+    "exercises": [{
+      "name": "kettlebell swing",
+      "weight": "53/35"
+    },{
+      "name": "box jumps",
+      "weight": "24/20"
+    },{
+      "name": "run",
+      "reps": "400m"
+    }]
   }
 ]
 
