@@ -250,6 +250,18 @@
       "name": "run",
       "reps": "400m"
     }]
+  },{
+    "id": "16",
+    "description": "10 minute AMRAP",
+    "tags": [ "body", "barbell" ],
+    "exercises": [{
+      "name": "Barbell lunges",
+      "reps": "12",
+      "weight": "95/65"
+    },{
+      "name": "Push-ups",
+      "reps": "12"
+    }]
   }
 ]
 
