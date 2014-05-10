@@ -1,8 +1,8 @@
-.label {
+.label, .glyphicon {
   opacity: 0.5;
 }
 
-.label:hover {
+.label:hover, .glyphicon:hover {
   opacity: 1.0;
   cursor: pointer;
 }
