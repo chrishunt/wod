@@ -262,6 +262,23 @@
       "name": "Push-ups",
       "reps": "12"
     }]
+  },{
+    "id": "17",
+    "description": "20 minute AMRAP",
+    "tags": [ "body", "pullup" ],
+    "exercises": [{
+      "name": "run",
+      "reps": "400 meter"
+    },{
+      "name": "pull-ups",
+      "reps": "15"
+    },{
+      "name": "push-ups",
+      "reps": "30"
+    },{
+      "name": "air squats",
+      "reps": "45"
+    }]
   }
 ]
 
