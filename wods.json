@@ -279,6 +279,22 @@
       "name": "air squats",
       "reps": "45"
     }]
+  },{
+    "id": "18",
+    "name": "Zembiec",
+    "description": "5 rounds",
+    "tags": [ "body", "pullup", "barbell" ],
+    "exercises": [{
+      "name": "back squats",
+      "reps": "11",
+      "weight": "185"
+    },{
+      "name": "strict burpee pull-ups",
+      "reps": "7"
+    },{
+      "name": "run",
+      "reps": "400 meter"
+    }]
   }
 ]
 
