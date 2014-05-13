@@ -295,6 +295,22 @@
       "name": "run",
       "reps": "400 meter"
     }]
+  },{
+    "id": "19",
+    "description": "12 minute AMRAP",
+    "tags": [ "body", "kettlebell", "barbell" ],
+    "exercises": [{
+      "name": "front squats",
+      "reps": "6",
+      "weight": "155/105"
+    },{
+      "name": "kettlebell swings",
+      "reps": "12",
+      "weight": "53/35"
+    },{
+      "name": "Double-Unders",
+      "reps": "24"
+    }]
   }
 ]
 
