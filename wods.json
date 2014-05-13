@@ -311,6 +311,21 @@
       "name": "Double-Unders",
       "reps": "24"
     }]
+  },{
+    "id": "20",
+    "description": "3 rounds",
+    "tags": [ "body", "dumbbell" ],
+    "exercises": [{
+      "name": "run",
+      "reps": "800 meter"
+    },{
+      "name": "dumbbell squat clean",
+      "reps": "30",
+      "weight": "50"
+    },{
+      "name": "burpees",
+      "reps": "30"
+    }]
   }
 ]
 

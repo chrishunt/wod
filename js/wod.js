@@ -20,6 +20,7 @@ function drawTags(tag) {
   var label = {
     "wallball": "success",
     "barbell": "primary",
+    "dumbbell": "primary",
     "kettlebell": "info",
     "rings": "warning",
     "pullup": "danger"
