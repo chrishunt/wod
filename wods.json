@@ -326,6 +326,18 @@
       "name": "burpees",
       "reps": "30"
     }]
+  },{
+    "id": "21",
+    "description": "Until burpees are complete",
+    "tags": [ "body", "pullup" ],
+    "exercises": [{
+      "name": "burpees",
+      "reps": "100"
+    },{
+      "name": "Toes-to-bar",
+      "reps": "5",
+      "weight": "EMOM"
+    }]
   }
 ]
 
