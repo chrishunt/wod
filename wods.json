@@ -338,6 +338,18 @@
       "reps": "5",
       "weight": "EMOM"
     }]
+  },{
+    "id": "22",
+    "description": "7 rounds",
+    "tags": [ "body", "barbell" ],
+    "exercises": [{
+      "name": "run",
+      "reps": "300 meter"
+    },{
+      "name": "Sumo-Deadlift High-pull",
+      "reps": "15",
+      "weight": "75/55"
+    }]
   }
 ]
 
