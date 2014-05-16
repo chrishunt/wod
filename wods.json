@@ -350,6 +350,18 @@
       "reps": "15",
       "weight": "75/55"
     }]
+  },{
+    "id": "23",
+    "description": "5 rounds",
+    "tags": [ "body", "wallball" ],
+    "exercises": [{
+      "name": "Wall Ball",
+      "reps": "20",
+      "weight": "20/14"
+    },{
+      "name": "Ab-mat sit-ups",
+      "reps": "20"
+    }]
   }
 ]
 
