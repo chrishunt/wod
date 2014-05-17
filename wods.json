@@ -362,6 +362,32 @@
       "name": "Ab-mat sit-ups",
       "reps": "20"
     }]
+  },{
+    "id": "24",
+    "description": "For time",
+    "tags": [ "body" ],
+    "exercises": [{
+      "name": "Run",
+      "reps": "1600 meter"
+    },{
+      "name": "Rest",
+      "reps": "3 minute"
+    },{
+      "name": "Run",
+      "reps": "1200 meter"
+    },{
+      "name": "Rest",
+      "reps": "2 minute"
+    },{
+      "name": "Run",
+      "reps": "800 meter"
+    },{
+      "name": "Rest",
+      "reps": "1 minute"
+    },{
+      "name": "Run",
+      "reps": "400 meter"
+    }]
   }
 ]
 
