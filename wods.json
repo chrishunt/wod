@@ -388,6 +388,33 @@
       "name": "Run",
       "reps": "400 meter"
     }]
+  },{
+    "id": "25",
+    "description": "For time",
+    "tags": [ "body", "jumprope", "barbell", "pullup" ],
+    "exercises": [{
+      "name": "pull-ups",
+      "reps": "50"
+    },{
+      "name": "double-unders",
+      "reps": "50"
+    },{
+      "name": "push-ups",
+      "reps": "50"
+    },{
+      "name": "deadlifts",
+      "reps": "50",
+      "weight": "185/135"
+    },{
+      "name": "push-ups",
+      "reps": "50"
+    },{
+      "name": "double-unders",
+      "reps": "50"
+    },{
+      "name": "pull-ups",
+      "reps": "50"
+    }]
   }
 ]
 
