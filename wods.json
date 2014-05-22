@@ -415,6 +415,20 @@
       "name": "pull-ups",
       "reps": "50"
     }]
+  },{
+    "id": "26",
+    "description": "For time",
+    "tags": [ "body" ],
+    "exercises": [{
+      "name": "walking lunge",
+      "reps": "100 meter"
+    },{
+      "name": "run",
+      "reps": "800 meter"
+    },{
+      "name": "air squats",
+      "reps": "100"
+    }]
   }
 ]
 
