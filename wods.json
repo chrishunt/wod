@@ -429,6 +429,18 @@
       "name": "air squats",
       "reps": "100"
     }]
+  },{
+    "id": "27",
+    "description": "7 rounds",
+    "tags": [ "body", "barbell" ],
+    "exercises": [{
+      "name": "hang squat cleans",
+      "reps": "7",
+      "weight": "135/95"
+    },{
+      "name": "Handstand push-ups",
+      "reps": "7"
+    }]
   }
 ]
 
