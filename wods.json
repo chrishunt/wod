@@ -441,6 +441,19 @@
       "name": "Handstand push-ups",
       "reps": "7"
     }]
+  },{
+    "id": "28",
+    "description": "5 rounds",
+    "tags": [ "barbell" ],
+    "exercises": [{
+      "name": "back squats",
+      "reps": "31",
+      "weight": "135"
+    },{
+      "name": "power cleans",
+      "reps": "12",
+      "weight": "185"
+    }]
   }
 ]
 
