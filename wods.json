@@ -454,6 +454,27 @@
       "reps": "12",
       "weight": "185"
     }]
+  },{
+    "id": "29",
+    "name": "Murph",
+    "description": "For time",
+    "tags": [ "body", "pullup" ],
+    "exercises": [{
+      "name": "run",
+      "reps": "1 mile"
+    },{
+      "name": "pull-ups",
+      "reps": "100"
+    },{
+      "name": "push-ups",
+      "reps": "200"
+    },{
+      "name": "squats",
+      "reps": "300"
+    },{
+      "name": "run",
+      "reps": "1 mile"
+    }]
   }
 ]
 
