@@ -475,6 +475,19 @@
       "name": "run",
       "reps": "1 mile"
     }]
+  },{
+    "id": "30",
+    "description": "5 rounds",
+    "tags": [ "barbell" ],
+    "exercises": [{
+      "name": "push-jerk",
+      "reps": "10",
+      "weight": "95/65"
+    },{
+      "name": "Barbell Lunges",
+      "reps": "20",
+      "weight": "95/65"
+    }]
   }
 ]
 
