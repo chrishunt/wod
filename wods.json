@@ -488,7 +488,24 @@
       "reps": "20",
       "weight": "95/65"
     }]
+  },{
+    "id": "31",
+    "description": "AMRAP in 12 minutes",
+    "tags": [ "body", "pullup", "box", "jumprope" ],
+    "exercises": [{
+      "name": "double-unders",
+      "reps": "24"
+    },{
+      "name": "burpee box jump overs",
+      "reps": "5",
+      "weight": "24/20"
+    },{
+      "name": "toes-to-bar",
+      "reps": "6"
+    },{
+      "name": "burpee box jump overs",
+      "reps": "5",
+      "weight": "24/20"
+    }]
   }
-]
-
-}
+]}
