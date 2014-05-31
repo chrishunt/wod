@@ -507,5 +507,15 @@
       "reps": "5",
       "weight": "24/20"
     }]
+  },{
+    "id": "32",
+    "description": "10-8-6-4-2 Reps",
+    "tags": [ "body", "rings" ],
+    "exercises": [{
+      "name": "muscle-ups"
+    },{
+      "name": "run",
+      "reps": "400 meter"
+    }]
   }
 ]}
