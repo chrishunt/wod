@@ -517,5 +517,15 @@
       "name": "run",
       "reps": "400 meter"
     }]
+  },{
+    "id": "33",
+    "name": "Annie",
+    "description": "50-40-30-20-10 reps",
+    "tags": [ "body", "jumprope" ],
+    "exercises": [{
+      "name": "double-unders"
+    },{
+      "name": "ab-mat sit-ups"
+    }]
   }
 ]}
