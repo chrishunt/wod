@@ -527,5 +527,20 @@
     },{
       "name": "ab-mat sit-ups"
     }]
+  },{
+    "id": "34",
+    "description": "3 Rounds",
+    "tags": [ "body", "barbell" ],
+    "exercises": [{
+      "name": "Run",
+      "reps": "400 meter"
+    },{
+      "name": "Deadlifts",
+      "reps": "21",
+      "weight": "155/105"
+    },{
+      "name": "Burpees",
+      "reps": "15"
+    }]
   }
 ]}
