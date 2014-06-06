@@ -542,5 +542,17 @@
       "name": "Burpees",
       "reps": "15"
     }]
+  },{
+    "id": "35",
+    "description": "5 Rounds",
+    "tags": [ "body", "barbell" ],
+    "exercises": [{
+      "name": "Run",
+      "reps": "400 meter"
+    },{
+      "name": "thrusters",
+      "reps": "15",
+      "weight": "95"
+    }]
   }
 ]}
