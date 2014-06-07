@@ -554,5 +554,15 @@
       "reps": "15",
       "weight": "95"
     }]
+  },{
+    "id": "36",
+    "description": "21-15-9 reps",
+    "tags": [ "body", "barbell" ],
+    "exercises": [{
+      "name": "deadlifts",
+      "weight": "225"
+    },{
+      "name": "pull-ups"
+    }]
   }
 ]}
