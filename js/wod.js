@@ -90,6 +90,11 @@ window.onhashchange = function() {
   draw(fromUrl(window.wods));
 };
 
+$(".refresh").on("click", function (){
+  url(random(window.wods));
+  return false;
+});
+
 $.getJSON("wods.json", function (json) {
   window.wods = json.wods;
   var wod = fromUrl(window.wods) || random(window.wods);
