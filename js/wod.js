@@ -79,13 +79,21 @@ function fromUrl(wods) {
   }
 }
 
-$.getJSON("wods.json", function (json) {
-  var wod = fromUrl(json.wods) || random(json.wods);
-
-  url(wod);
-
+function draw(wod) {
   show("name", wod);
   show("description", wod);
   show("tags", wod);
   show("exercises", wod);
+}
+
+window.onhashchange = function() {
+  draw(fromUrl(window.wods));
+};
+
+$.getJSON("wods.json", function (json) {
+  window.wods = json.wods;
+  var wod = fromUrl(window.wods) || random(window.wods);
+
+  url(wod);
+  draw(wod);
 });
