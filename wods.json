@@ -564,5 +564,15 @@
     },{
       "name": "pull-ups"
     }]
+  },{
+    "id": "37",
+    "description": "10-8-6-4-2 Reps",
+    "tags": [ "body", "barbell" ],
+    "exercises": [{
+      "name": "power cleans",
+      "weight": "155/105"
+    },{
+      "name": "handstand push-ups"
+    }]
   }
 ]}
