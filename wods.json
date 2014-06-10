@@ -574,5 +574,16 @@
     },{
       "name": "handstand push-ups"
     }]
+  },{
+    "id": "38",
+    "description": "4 rounds",
+    "tags": [ "body" ],
+    "exercises": [{
+      "name": "run",
+      "reps": "400 meter"
+    },{
+      "name": "air squats",
+      "reps": "50"
+    }]
   }
 ]}
