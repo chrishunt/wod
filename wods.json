@@ -585,5 +585,16 @@
       "name": "air squats",
       "reps": "50"
     }]
+  },{
+    "id": "39",
+    "description": "AMRAP in 10 minutes",
+    "tags": [ "body", "pullup" ],
+    "exercises": [{
+      "name": "pull-ups",
+      "reps": "10"
+    },{
+      "name": "burpees",
+      "reps": "10"
+    }]
   }
 ]}
