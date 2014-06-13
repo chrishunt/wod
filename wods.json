@@ -596,5 +596,20 @@
       "name": "burpees",
       "reps": "10"
     }]
+  },{
+    "id": "40",
+    "description": "For time",
+    "tags": [ "body", "barbell", "pullup" ],
+    "exercises": [{
+      "name": "Hang Squat Snatch",
+      "reps": "30",
+      "weight": "95/65"
+    },{
+      "name": "Toes-to-bar",
+      "reps": "20"
+    },{
+      "name": "run",
+      "reps": "1 mile"
+    }]
   }
 ]}
