@@ -611,5 +611,20 @@
       "name": "run",
       "reps": "1 mile"
     }]
+  },{
+    "id": "41",
+    "description": "2 rounds",
+    "tags": [ "jumprope", "kettlebell", "rowing" ],
+    "exercises": [{
+      "name": "double-unders",
+      "reps": "75"
+    },{
+      "name": "kettlebell swings",
+      "reps": "50",
+      "weight": "53/35"
+    },{
+      "name": "row",
+      "reps": "25 calorie"
+    }]
   }
 ]}
