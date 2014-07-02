@@ -626,5 +626,21 @@
       "name": "row",
       "reps": "25 calorie"
     }]
+  },{
+    "id": "42",
+    "description": "15 minute AMRAP",
+    "tags": [ "body", "box", "kettlebell", "jumprope" ],
+    "exercises": [{
+      "name": "box jumps",
+      "reps": "10",
+      "weight": "24/20"
+    },{
+      "name": "kettlebell swings",
+      "reps": "15",
+      "weight": "53/35"
+    },{
+      "name": "double-unders",
+      "reps": "20"
+    }]
   }
 ]}
