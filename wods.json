@@ -642,5 +642,16 @@
       "name": "double-unders",
       "reps": "20"
     }]
+  },{
+    "id": "43",
+    "description": "5 rounds",
+    "tags": [ "body" ],
+    "exercises": [{
+      "name": "burpees",
+      "reps": "10"
+    },{
+      "name": "squats",
+      "reps": "20"
+    }]
   }
 ]}
