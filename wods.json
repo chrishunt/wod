@@ -653,5 +653,18 @@
       "name": "squats",
       "reps": "20"
     }]
+  },{
+    "id": "44",
+    "name": "nancy",
+    "description": "5 rounds",
+    "tags": [ "body", "barbell" ],
+    "exercises": [{
+      "name": "run",
+      "reps": "400 meter"
+    },{
+      "name": "overhead squats",
+      "reps": "15",
+      "weight": "95/65"
+    }]
   }
 ]}
