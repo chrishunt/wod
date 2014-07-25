@@ -666,5 +666,19 @@
       "reps": "15",
       "weight": "95/65"
     }]
+  },{
+    "id": "45",
+    "description": "For time",
+    "tags": [ "body", "row", "jumprope" ],
+    "exercises": [{
+      "name": "row",
+      "reps": "1000 meter"
+    },{
+      "name": "double-unders",
+      "reps": "100"
+    },{
+      "name": "run",
+      "reps": "1000 meter"
+    }]
   }
 ]}
