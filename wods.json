@@ -680,5 +680,17 @@
       "name": "run",
       "reps": "1000 meter"
     }]
+  },{
+    "id": "46",
+    "description": "3 rounds",
+    "tags": [ "body", "barbell" ],
+    "exercises": [{
+      "name": "thrusters",
+      "reps": "20",
+      "weight": "75/55"
+    },{
+      "name": "burpees",
+      "reps": "20"
+    }]
   }
 ]}
