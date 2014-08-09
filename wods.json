@@ -692,5 +692,16 @@
       "name": "burpees",
       "reps": "20"
     }]
+  },{
+    "id": "47",
+    "description": "8 minute AMRAP",
+    "tags": [ "body", "pullup" ],
+    "exercises": [{
+      "name": "push-ups",
+      "reps": "8"
+    },{
+      "name": "toes-to-bar",
+      "reps": "8"
+    }]
   }
 ]}
