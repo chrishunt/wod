@@ -703,5 +703,16 @@
       "name": "toes-to-bar",
       "reps": "8"
     }]
+  },{
+    "id": "48",
+    "description": "4 rounds",
+    "tags": [ "body", "row" ],
+    "exercises": [{
+      "name": "row",
+      "reps": "500 meter"
+    },{
+      "name": "rest",
+      "reps": "3 minute"
+    }]
   }
 ]}
