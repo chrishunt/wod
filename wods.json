@@ -714,5 +714,33 @@
       "name": "rest",
       "reps": "3 minute"
     }]
+  },{
+    "id": "49",
+    "description": "As fast as possible",
+    "tags": [ "kettlebell", "body" ],
+    "exercises": [{
+      "name": "kettlebell swings",
+      "reps": "50",
+      "weight": "53/35"
+    },{
+      "name": "handstand push-ups",
+      "reps": "15"
+    },{
+      "name": "ab-mat sit-ups",
+      "reps": "50"
+    },{
+      "name": "handstand push-ups",
+      "reps": "15"
+    },{
+      "name": "ab-mat sit-ups",
+      "reps": "50"
+    },{
+      "name": "handstand push-ups",
+      "reps": "15"
+    },{
+      "name": "kettlebell swings",
+      "reps": "50",
+      "weight": "53/35"
+    }]
   }
 ]}
