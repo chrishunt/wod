@@ -742,5 +742,19 @@
       "reps": "50",
       "weight": "53/35"
     }]
+  },{
+    "id": "50",
+    "description": "20 minute AMRAP",
+    "tags": [ "body" ],
+    "exercises": [{
+      "name": "push-ups",
+      "reps": "5"
+    },{
+      "name": "sit-ups",
+      "reps": "10"
+    },{
+      "name": "air squats",
+      "reps": "15"
+    }]
   }
 ]}
