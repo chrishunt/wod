@@ -756,5 +756,19 @@
       "name": "air squats",
       "reps": "15"
     }]
+  },{
+    "id": "51",
+    "description": "As fast as possible",
+    "tags": [ "body" ],
+    "exercises": [{
+      "name": "run",
+      "reps": "2000 meter"
+    },{
+      "name": "push-ups",
+      "reps": "100"
+    },{
+      "name": "sit-ups",
+      "reps": "150"
+    }]
   }
 ]}
